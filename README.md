@@ -1,12 +1,13 @@
-# Foobar
-This is React project, based on Yelp API
+# Ravenous
+This is React Ravenous project, based on Yelp API
 
 ## Installation
 to run the project you must have nodejs, npm installed:
 
-```npm install
+```bash
+npm i
 npm start
 ```
 ## Usage
-Use is you want :) 
+Use is, as you like it :) 
 
